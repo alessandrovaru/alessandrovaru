@@ -2,7 +2,7 @@
 
 👀 I'm currently leading a major project at La Pizarra del DT, transitioning their platform to NextJS with a Ruby on Rails API.
 
-💻 My skills extend to Firebase, Heroku, AWS, Vercel, Netlify, Webflow, and Bootstrap. I'm adept at leveraging these technologies, continually refining my expertise.
+💻 My skills extend to Firebase, Heroku, AWS, Vercel, Netlify, Webflow, Shopify Liquid, GraphQL and Bootstrap. I'm adept at leveraging these technologies, continually refining my expertise.
 
 📱 Exploring mobile development, I'm involved in creating a Meditation Mobile App with React Native.
 
