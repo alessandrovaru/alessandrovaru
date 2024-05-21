@@ -4,7 +4,7 @@
 
 💻 My skills extend to Firebase, Heroku, AWS, Vercel, Netlify, Webflow, Shopify Liquid, GraphQL and Bootstrap. I'm adept at leveraging these technologies, continually refining my expertise.
 
-📱 Exploring mobile development, I'm involved in creating a Meditation Mobile App with React Native.
+📱 Mobile development with React Native.
 
 📫 Contact me at: alessandrovaru@gmail.com
 
