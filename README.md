@@ -44,9 +44,9 @@ I'm a **Full Stack Developer** specializing in building scalable SaaS applicatio
 
 I am currently developing multiple SaaS solutions and comprehensive platforms. Some of the themes I'm working on include:
 
-* **HealthTech:** Management platforms for medical appointments and health services (`endosalud`).
-* **AI Tools:** Applications leveraging AI for content generation and summarization (`sumly`).
-* **E-commerce:** Digital marketplaces and vendor platforms (`vendamelo`).
+* **HealthTech:** Management platforms for medical appointments and health services.
+* **AI Tools:** Applications leveraging AI for content generation and summarization.
+* **E-commerce:** Digital marketplaces and vendor platforms.
 * **SaaS Boilerplates:** Building robust architectures with Supabase and Next.js.
 
 ---
